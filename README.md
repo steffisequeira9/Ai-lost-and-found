@@ -1,9 +1,13 @@
 Student Details:
 
 Student: Steffi Sequeira
+
 Branch: Information Technology
+
 Year: Third Year
+
 College: Fr. C. Rodrigues Institute of Technology
+
 Academic Year: 2026–27
 
 1. Overview
